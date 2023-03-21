@@ -1,4 +1,5 @@
 num1 = input("Please enter number: ")
 num2 = input("Please enter number: ")
-result = num1 + num2
+result = float(num1) + float(num2)
 
+print(result)
